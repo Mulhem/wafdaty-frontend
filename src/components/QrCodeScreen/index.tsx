@@ -39,7 +39,7 @@ const QrCodeScreen: React.FC<QrCodeScreenProps> = ({ merchantId }) => {
         <ParagraphBelow>
           <PoweredSpan>Powered by</PoweredSpan>
           <span>
-            <Logo src={LogoImage} /> <b>Wafdaty</b>
+            <Logo src={LogoImage} /> <b>Wafda</b>
           </span>
         </ParagraphBelow>
       </TextWrapper>

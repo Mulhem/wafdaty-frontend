@@ -9,7 +9,7 @@ const Header: React.FC = () => {
     <>
       <Container>
         <Logo src={LogoImage} alt="Wafdaty" />
-        <Title>Wafdaty</Title>
+        <Title>Wafda</Title>
       </Container>
       <Filler />
     </>
